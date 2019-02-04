@@ -2,8 +2,8 @@
 
 @Author: Medhanie Weldemariam @Date: January 21, 2019 @Place: Toronto, ON
 
-In this module, I implement an Entity Framework data layer.  
-The Entity Framework layer will implement the IDataRepository interface which means that 
+In this module, I implemented an Entity Framework data layer.  
+The Entity Framework layer implements the IDataRepository interface in Part 3; which means that 
 this interface can be used interchangably with the ADO data layer in part 3 of same project.
 
 
